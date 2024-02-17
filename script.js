@@ -1,6 +1,5 @@
 const readline = require('readline');
 
-// Define questions directly in the code
 const questions = [
   {
     "question": "What is the capital of France?",
